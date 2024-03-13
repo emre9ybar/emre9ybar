@@ -26,8 +26,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Mocha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mocha" /></a></p><br><br>
 
-https://www.google.com/search?q=java+&tbm=isch&ved=2ahUKEwjN78HG8_GEAxW_jv0HHQMwAFQQ2-cCegQIABAA&oq=java+&gs_lp=EgNpbWciBWphdmEgMgQQIxgnMgQQIxgnMgUQABiABDIFEAAYgAQyBRAAGIAEMgoQABiABBiKBRhDMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEipLFCCCFixKnACeACQAQOYAXmgAdUKqgEEMC4xMrgBA8gBAPgBAYoCC2d3cy13aXotaW1nqAIKwgIEEAAYHsICBxAjGOoCGCfCAggQABiABBixA4gGAQ&sclient=img&ei=AvXxZc3mKr-d9u8Pg-CAoAU&bih=703&biw=1536&rlz=1C1GCEA_enTR1068TR1069#imgrc=NogUHd4hj4FyNM
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emre9ybar&show_icons=true&locale=en&layout=compact" alt="emre9ybar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emre9ybar&" alt="emre9ybar" /></p>
