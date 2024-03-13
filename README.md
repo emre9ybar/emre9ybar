@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on : **Universtyt Managmenet**
 
-- 👨‍💻 All of my projects are available at :  [linktr.ee/emre9ybar](linktr.ee/emre9ybar)
+- 👨‍💻 All of my projects are available at : https://linktr.ee/emre9ybar
 
 - 💬 Ask me about : **Java | Spring Boot | OOP**
 
