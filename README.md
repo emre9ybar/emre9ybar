@@ -47,10 +47,3 @@ https://www.google.com/search?q=java+&tbm=isch&ved=2ahUKEwjN78HG8_GEAxW_jv0HHQMw
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emre9ybar&" alt="emre9ybar" /></p>
 
-
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
