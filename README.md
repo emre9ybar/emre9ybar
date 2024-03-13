@@ -1,17 +1,16 @@
-https://www.google.com/search?q=java+&tbm=isch&ved=2ahUKEwjN78HG8_GEAxW_jv0HHQMwAFQQ2-cCegQIABAA&oq=java+&gs_lp=EgNpbWciBWphdmEgMgQQIxgnMgQQIxgnMgUQABiABDIFEAAYgAQyBRAAGIAEMgoQABiABBiKBRhDMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEipLFCCCFixKnACeACQAQOYAXmgAdUKqgEEMC4xMrgBA8gBAPgBAYoCC2d3cy13aXotaW1nqAIKwgIEEAAYHsICBxAjGOoCGCfCAggQABiABBixA4gGAQ&sclient=img&ei=AvXxZc3mKr-d9u8Pg-CAoAU&bih=703&biw=1536&rlz=1C1GCEA_enTR1068TR1069#imgrc=ClEu45t4UUXvjM&imgdii=p74dnV9lk7t3_M
 
 <h1 align="center">Hi 👋, I'm Emre AYBAR</h1>
 <h3 align="center">Backend Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/emre9ybar" target="blank"><img src="https://img.shields.io/twitter/follow/emre9ybar?logo=twitter&style=for-the-badge" alt="emre9ybar" /></a> </p>
 
-- 🔭 I’m currently working on **Universtyt Managmenet**
+- 🔭 I’m currently working on : **Universtyt Managmenet**
 
-- 👨‍💻 All of my projects are available at [linktr.ee/emre9ybar](linktr.ee/emre9ybar)
+- 👨‍💻 All of my projects are available at :  [linktr.ee/emre9ybar](linktr.ee/emre9ybar)
 
-- 💬 Ask me about **Java | Spring Boot | OOP**
+- 💬 Ask me about : **Java | Spring Boot | OOP**
 
-- 📫 How to reach me **aybaremre5@gmail.com**
+- 📫 How to reach me : **aybaremre5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
