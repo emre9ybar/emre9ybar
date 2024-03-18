@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/emre9ybar" target="blank"><img src="https://img.shields.io/twitter/follow/emre9ybar?logo=twitter&style=for-the-badge" alt="emre9ybar" /></a> </p>
 
-- 🔭 I’m currently working on : **Universtyt Managmenet**
+- 🔭 I’ m currently working on : **Universtyt Managmenet**
 
 - 👨‍💻 All of my projects are available at : https://linktr.ee/emre9ybar
 
