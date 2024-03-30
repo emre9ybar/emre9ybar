@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamshids&label=Profile%20views&color=0e75b6&style=flat" alt="jamshids" /> </p>
 
-- 🌱 I’m currently learning **Python and Machine Learning**
+- 🌱 I’m currently learning : **java learning**
 
-- 👯 I’m looking to collaborate on **Java and Python Projects**
+- 👯 I’m looking to collaborate on : **Java  Projects**
 
-- 💬 Ask me about **AI,Python,Java,Spring Boot**
+- 💬 Ask me about : **Java,Spring Boot**
 
-- 📫 How to reach me **jamshidsadiqi12@gmail.com**
+- 📫 How to reach me  :**aybaremre5@gmail.com**
 
 - ⚡ Fun fact **😎**
 
