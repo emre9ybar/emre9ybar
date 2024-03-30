@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamshids&label=Profile%20views&color=0e75b6&style=flat" alt="jamshids" /> </p>
 
-- 🌱 I’m currently learning **Java Backhend | OOP | Sring Boot**
+- 🌱 I’m currently learning :**Java Backhend | OOP | Sring Boot**
 
-- 👯 I’m looking to collaborate on **Java Projects**
+- 👯 I’m looking to collaborate on : **Java Projects**
 
-- 💬 Ask me about **Java,Spring Boot**
+- 💬 Ask me about :**Java,Spring Boot**
 
-- 📫 How to reach me **aybaremre5@gmail.com**
+- 📫 How to reach me :**aybaremre5@gmail.com**
 
 - ⚡ Fun fact **😎**
 
@@ -32,9 +32,9 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamshidS&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emre&show_icons=true&theme=radical)
 
 
 
-<p><img align="center" width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=jamshids&amp;theme=dark" alt="jamshids" /></p>
+<p><img align="center" width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=Emre&amp;theme=dark" alt="Emre" /></p>
 
