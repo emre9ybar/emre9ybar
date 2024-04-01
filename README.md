@@ -32,8 +32,10 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamshidS&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMRE&show_icons=true&theme=radical)
 
 
 
-<p><img align="center" width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=jamshids&amp;theme=dark" alt="jamshids" /></p>
+<p><img align="center" width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=EMRE&amp;theme=dark" alt="EMRE
+     
+    " /></p>
