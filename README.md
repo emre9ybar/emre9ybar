@@ -1,19 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman:bold&color=%06088B&size=19&duration=3000&vCenter=true&multiline=true&height=100&lines=Hey%2C+I'm+Emre+AYBAR%3B+Software+Developer)](https://git.io/typing-svg)
 
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-<img align="right" alt="coding" width="400" src ="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EMRE&AYBAR=Profile%20views&color=0e75b6&style=flat" alt="EMRE" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EMRE&label=Profile%20views&color=0e75b6&style=flat" alt="EMRE" /> </p>
 
 - 🌱 I’m currently learning : **java learning**
 
-- 👯 I’m looking to collaborate on : **Java  Projects**
+- 👯 I’m looking to collaborate on : **Java Projects**
 
-- 💬 Ask me about : **Java,Spring Boot**
+- 💬 Ask me about : **Java, Spring Boot**
 
-- 📫 How to reach me  :**aybaremre5@gmail.com**
+- 📫 How to reach me : **aybaremre5@gmail.com**
 
 - ⚡ Fun fact **😎**
 
@@ -29,10 +26,6 @@
 <p> <img width="470" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emre&AYBAR=true&locale=en&layout=compact&theme=tokyonight" alt="Emre AYBAR GitHub languages">
 </p>
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMRE&show_icons=true&theme=radical)
 
-
 <p><img align="center" width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=EMRE&AYBAR;theme=dark" alt="EMRE AYBAR" /></p>
-
