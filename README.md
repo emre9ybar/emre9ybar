@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamshids&label=Profile%20views&color=0e75b6&style=flat" alt="jamshids" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EMRE&label=Profile%20views&color=0e75b6&style=flat" alt="EMRE" /> </p>
 
 - 🌱 I’m currently learning : **java learning**
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jamshid-sadiqi-a51b42235" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamshid sadiqi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emre-aybar-3ba538213/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emre AYBAR" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
