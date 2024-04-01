@@ -17,7 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/emre-aybar-3ba538213/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emre AYBAR" height="30" width="40" /></a>
+
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emre AYBAR" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,6 +27,6 @@
 <p> <img width="470" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emre&AYBAR=true&locale=en&layout=compact&theme=tokyonight" alt="Emre AYBAR GitHub languages">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMRE&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMRE AYBAR=true&theme=radical)
 
 <p><img align="center" width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=EMRE&AYBAR;theme=dark" alt="EMRE AYBAR" /></p>
