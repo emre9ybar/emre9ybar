@@ -36,6 +36,6 @@
 
 
 
-<p><img align="center" width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=EMRE&amp;theme=dark" alt="EMRE
+<p><img align="center" width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=EMRE&AYBAR;theme=dark" alt="EMRE
      
     " /></p>
