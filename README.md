@@ -27,6 +27,6 @@
 <p> <img width="470" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emre&AYBAR=true&locale=en&layout=compact&theme=tokyonight" alt="Emre AYBAR GitHub languages">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMRE AYBAR=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMREAYBAR=true&theme=radical)
 
 <p><img align="center" width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=EMRE&AYBAR;theme=dark" alt="EMRE AYBAR" /></p>
