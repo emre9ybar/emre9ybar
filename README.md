@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamshids&label=Profile%20views&color=0e75b6&style=flat" alt="jamshids" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emre9ybar&label=Profile%20views&color=0e75b6&style=flat" alt="emre9ybar" /> </p>
 
 - 🌱 I’m currently learning **JAVA Learning**
 
@@ -32,7 +32,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamshidS&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emre9ybar&show_icons=true&theme=radical)
 
 
 
